@@ -1,0 +1,47 @@
+/* style priching part */
+
+.Extra-cus{
+    background-color: rgba(0, 0, 0, 0.144);
+    padding: 20px;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+.button-cool {
+    padding: 9px 33px !important;
+    font-size: 17px;
+}
+
+.priching-tittle{
+    margin-top: 50px!important;
+    margin-bottom: 100px;
+}
+
+/* End priching part */
+
+
+/* Team priching part */
+
+.team{
+    padding: 100px 0 !important;
+}
+ .team-img img{
+
+     width: 100px;
+     
+     margin-top: -150px;
+     margin-right: 60%;
+ }
+
+/* Team priching part */
+
+/* contact */
+
+.contact-content h3{
+    margin-top: 35%;
+    
+}
+/* contact */
